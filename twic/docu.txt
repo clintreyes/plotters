@@ -1,0 +1,4 @@
+twic plotter docu: 
+
+add if else for vertical or horizontal plotter
+ask for user input for start date, or read from file header (easier use, more handling but better)

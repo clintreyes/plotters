@@ -1,0 +1,8 @@
+wave_rose_raw
+&&
+rose_raw 
+READ ME
+
+RUN removeNull if needed
+RUN raw rose plotter 
+*note: no file saving yet
